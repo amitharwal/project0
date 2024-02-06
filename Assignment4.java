@@ -16,12 +16,12 @@ public class Assignment4 {
         int sum = 0;
         int count = 0;
 
-        System.out.println("Enter a positive integer. Enter -1 to quit.");
+        System.out.println("Enter a positive integer. Enter -9 to quit.");
 
         int num;
         while (true) {
             num = input.nextInt();
-            if (num == -1) {
+            if (num == -9) {
                 break;
             }
 
