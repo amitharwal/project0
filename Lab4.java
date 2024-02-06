@@ -1,5 +1,5 @@
 /*-------------------------------------------------------------
-// AUTHOR: Aryan Mitharwal
+// AUTHOR: Mr. Fish
 // FILENAME: Lab4.java
 // SPECIFICATION: User inputs an option and measurements for the program to "draw".
 // FOR: CS 1400- Lab #4
@@ -53,7 +53,7 @@ public class Lab4 {
 
                     break;
                 case 'q':
-                    System.out.println("Bye");
+                    System.out.println("Goodbye! Hope to see you again soon!");
                     break;
 
                 default:
